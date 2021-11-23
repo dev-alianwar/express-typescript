@@ -1,1 +1,12 @@
-node_modules
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
