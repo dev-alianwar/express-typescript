@@ -1,2 +1,2 @@
 # express-typescript
-Nodejs express power project with typescript
+This is a boilerplate to start Nodejs express power project with typescript
